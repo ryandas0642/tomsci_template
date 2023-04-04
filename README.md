@@ -1,2 +1,1 @@
-# tomsci_template
-A simple but versatile front-end template in reactjs.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
